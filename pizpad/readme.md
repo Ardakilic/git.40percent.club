@@ -2,6 +2,8 @@
 
 More information in blog:
 
+https://www.40percent.club/2019/08/piz-pad.html
+
 
 EasyEDA ordering info:
 
