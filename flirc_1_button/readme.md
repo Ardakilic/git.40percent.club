@@ -2,7 +2,7 @@
 
 More information in blog:
 
-https://www.40percent.club/2019/09/flirc_1_button
+https://www.40percent.club/2019/09/flirc-1-button.html
 
 
 EasyEDA ordering info:
