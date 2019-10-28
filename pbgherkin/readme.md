@@ -3,7 +3,7 @@
 EasyEDA ordering info:
 
 
-![pbgherkinfront](pbgherkinfront.png)
+![pbgherkin](pbgherkin.png)
 
 
     191.7mm Max* 54.8mm Max;
