@@ -1,3 +1,7 @@
+More info here:
+
+https://www.40percent.club/2019/10/pb-gherkin.html
+
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 
 EasyEDA ordering info:
