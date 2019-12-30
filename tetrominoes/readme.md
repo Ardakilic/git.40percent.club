@@ -68,7 +68,7 @@ Gerber: Gerber_T.zip
 
 Stick
 
-![Stick](Stick.png)
+![Stick](stick.png)
 
 Gerber: Gerber_Stick.zip
 
