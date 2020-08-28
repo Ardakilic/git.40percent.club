@@ -1,6 +1,6 @@
 More info here:
 
-http://www.40percent.club/2020/08/The-Aardvark.html
+http://www.40percent.club/2020/08/the-aardvark.html
 
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 
