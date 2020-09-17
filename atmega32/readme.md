@@ -1,1 +1,1 @@
-Configuration files for boards using the ATmega32A. These require the modified TMK firmware avaialable at https://github.com/nuess0r/tmk_keyboard
+Configuration files for boards using the ATmega32A. These require the modified TMK firmware available at https://github.com/nuess0r/tmk_keyboard
