@@ -1,0 +1,1 @@
+avrdude -p m328p -c usbtiny -U lfuse:w:0xD7:m -U hfuse:w:0xD0:m -U efuse:w:0xFC:m -U flash:w:bootloader-atmega328p.hex
