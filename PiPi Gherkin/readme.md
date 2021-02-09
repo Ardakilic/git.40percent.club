@@ -8,7 +8,7 @@ EasyEDA ordering info:
 
 PCB
 
-![PiPi_Gherkin](PiPi_Gherkin.png)
+![PiPi_Gherkin]("PiPi_Gherkin.png")
 
 Gerber: PiPi_Gherkin.zip
 	
