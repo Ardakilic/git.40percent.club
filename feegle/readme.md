@@ -2,7 +2,7 @@
 
 More Information https://www.40percent.club/2020/10/feegle.html
 
-![Feegle](feegle.jpg)
+![Feegle](Feegle.jpg)
 ======================
 Feegle keyboard. 12x4 matrix.
 
