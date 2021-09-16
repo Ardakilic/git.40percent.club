@@ -21,7 +21,7 @@ Gerber: Feegle_Top.zip
     PCB Thickness: 1mm
 
 
-Bottom
+Bottom (other side is blank)
 
 ![Feegle PCB Bottom](Feegle_Bottom.png)
 
