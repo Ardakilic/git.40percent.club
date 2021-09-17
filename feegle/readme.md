@@ -55,7 +55,7 @@ BOM
     1	ATmega328p or ATmega328 28pin DIP
     1	16MHz subminiature crystal ECS-160-20-46X
     2	20pf capacitors 0.1" lead spacing, 4mm max height SR151A200JAR
-    1	1uf capacitor 0.1" lead spacing, 4mm max height
+    1	1uf capacitor 0.1" lead spacing, 4mm max height AR155C104K4R
     2	68ohm resistors. Smaller 1/8 or 1/10 watt
     1	1.5Kohm resistor. Smaller 1/8 or 1/10 watt
     2	6x6mm tactile switches 5mm height, for boot and reset
@@ -65,7 +65,7 @@ BOM
     1	Mini USB connector with 2 mounting lugs. 2 lugs can be trimmed off 4 lug versions.
     2	T1 3mm Blue/White/Green/UV 3-3.3Vfd LEDs. Not all Green LEDs are 3V. Most Blue/White/UV are.
     6	4mm M2 brass spacers
-    6	4mm M3 aluminum unthreaded spacers R30-6200414 (optional)
+    6	4mm M3 aluminum unthreaded spacers (optional) Harwin R30-6200414, Lyntron 6mm diameter AA5005-30-04.0-00
     6	3mm M2 screws for top
     6	5mm M2 screws for bottom
     6	Steel or Brass 0.3mm thick washers
