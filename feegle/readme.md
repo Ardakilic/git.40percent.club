@@ -68,7 +68,7 @@ BOM
     6	4mm M3 aluminum unthreaded spacers (optional) Harwin R30-6200414, Lyntron 6mm diameter AA5005-30-04.0-00
     6	3mm M2 screws for top
     6	5mm M2 screws for bottom
-    6	Steel or Brass 0.3mm thick washers
+    6	Steel or Brass 0.3mm thick washers, 0.5mm red fiber washers, 1mm nylon washers
     1	ISP programmer for initial bootloader flashing.
 
 [How to order your own PCBs](http://www.40percent.club/2017/03/ordering-pcb.html)
