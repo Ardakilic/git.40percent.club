@@ -54,7 +54,7 @@ BOM
 
     1	ATmega328p or ATmega328 28pin DIP
     1	16MHz subminiature crystal ECS-160-20-46X
-    2	20pf capacitors 0.1" lead spacing, 4mm max height
+    2	20pf capacitors 0.1" lead spacing, 4mm max height SR151A200JAR
     1	1uf capacitor 0.1" lead spacing, 4mm max height
     2	68ohm resistors. Smaller 1/8 or 1/10 watt
     1	1.5Kohm resistor. Smaller 1/8 or 1/10 watt
