@@ -58,6 +58,7 @@ BOM
     1	1uf capacitor 0.1" lead spacing, 4mm max height AR155C104K4R
     2	68ohm resistors. Smaller 1/8 or 1/10 watt
     1	1.5Kohm resistor. Smaller 1/8 or 1/10 watt
+    1	10Kohm resistor. Smaller 1/8 or 1/10 watt
     2	6x6mm tactile switches 5mm height, for boot and reset
     48	6x6mm tactile switches 6-7mm height
     1	PTC Fuse RXEF010
