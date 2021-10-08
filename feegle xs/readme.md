@@ -14,7 +14,7 @@ More info about V-USB https://www.40percent.club/2020/08/the-aardvark.html
 
 
 Top
-![Feegle PCB Top](/di0ib/Misc/src/branch/master/feegle xs/top.png)
+![Feegle PCB Top](top.png)
 
 Gerber: top.zip
 
@@ -22,7 +22,7 @@ Gerber: top.zip
 
 
 Top Convertible
-![Feegle PCB Top convertible](/di0ib/Misc/_edit/master/feegle xs/top_convertible.png)
+![Feegle PCB Top convertible](top_convertible.png)
 
 Gerber: top_convertible.zip
 
@@ -30,7 +30,7 @@ Gerber: top_convertible.zip
 
 
 Top Grill
-![Feegle PCB Top grill](/di0ib/Misc/_edit/master/feegle xs/top_grill.png)
+![Feegle PCB Top grill](top_grill.png)
 
 Gerber: top_grill.zip
 
@@ -47,7 +47,7 @@ Gerber: top_single.zip
 
 Bottom
 
-![Feegle PCB Bottom](/di0ib/Misc/_edit/master/feegle xs/bottom.png)
+![Feegle PCB Bottom](bottom.png)
 
 Gerber: bottom.zip
 
@@ -56,7 +56,7 @@ Gerber: bottom.zip
 
 Bottom Aluminum
 
-![Feegle PCB Bottom single sided](/di0ib/Misc/_edit/master/feegle xs/bottom_single.png)
+![Feegle PCB Bottom single sided](bottom_single.png)
 
 Gerber: bottom_single.zip
 
@@ -65,7 +65,7 @@ Gerber: bottom_single.zip
 
 PCB mini USB
 
-![Feegle PCB](/di0ib/Misc/_edit/master/feegle xs/feegle_xs.png)
+![Feegle PCB](feegle_xs.png)
 
 Gerber: feegle_xs.zip
 
@@ -74,7 +74,7 @@ Gerber: feegle_xs.zip
 
 PCB USB C
 
-![Feegle C PCB](/di0ib/Misc/_edit/master/feegle xs/feegle_xsc.png)
+![Feegle C PCB](feegle_xsc.png)
 
 Gerber: feegle_xsc.zip
 
@@ -83,7 +83,7 @@ Gerber: feegle_xsc.zip
 
 Spacer
 
-![Feegle spacer](/di0ib/Misc/_edit/master/feegle xs/spacer.png)
+![Feegle spacer](spacer.png)
 
 Gerber: spacer.zip
 
