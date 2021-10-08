@@ -38,7 +38,7 @@ Gerber: top_grill.zip
 
 
 Top Aluminum
-![Feegle PCB Top single sided](/di0ib/Misc/_edit/master/feegle xs/top_single.png)
+![Feegle PCB Top single sided](top_single.png)
 
 Gerber: top_single.zip
 
@@ -89,6 +89,10 @@ Gerber: spacer.zip
 
     PCB Thickness: 0.8mm
 
+
+Gerber files released under https://creativecommons.org/licenses/by-sa/4.0/
+
+![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 
 Pinout
