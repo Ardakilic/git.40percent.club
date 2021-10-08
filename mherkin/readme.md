@@ -1,8 +1,8 @@
-## Feegle Keyboard
+## mherkin Keyboard
 
 More Information https://www.40percent.club/2021/10/mherkin.html
 
-![Feegle](feegle.jpg)
+
 ======================
 mherkin (micro gherkin) keyboard. 10x3 matrix.
 
