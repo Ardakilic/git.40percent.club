@@ -120,4 +120,26 @@ BOM mini USB
     4	Steel or Brass 0.3mm thick washers
     1	ISP programmer for initial bootloader flashing.
 
+
+BOM USB C
+
+    1	ATmega328p or ATmega328 28pin DIP
+    1	16MHz subminiature crystal ECS-160-20-46X
+    2	20pf capacitors 0.1" lead spacing, 4mm max height
+    1	1uf capacitor 0.1" lead spacing, 4mm max height
+    2	68ohm resistors. Smaller 1/8 or 1/10 watt
+    2   5.1Kohm resistor. Smaller 1/8 or 1/10 watt
+    1	1.5Kohm resistor. Smaller 1/8 or 1/10 watt
+    1	PICO Fuse 0251.125MXL https://www.digikey.com/short/27hmbw0b
+    1	10uf capacitor 4mm diameter RNU1A100MDS1
+    1	USB C connector CU3216SASBLR004-NH https://www.digikey.com/short/4mpbjd7j
+    2	T1 3mm Blue/White/Green/UV 3-3.3Vfd LEDs. Not all Green LEDs are 3V. Most Blue/White/UV are.
+    4	4mm M2 brass spacers
+    4	4mm M3 aluminum unthreaded spacers R30-6200414 (optional)
+    4	3mm M2 screws for top
+    4	5mm M2 screws for bottom
+    4	Steel or Brass 0.3mm thick washers
+    1	ISP programmer for initial bootloader flashing.
+
+
 [How to order your own PCBs](http://www.40percent.club/2017/03/ordering-pcb.html)
