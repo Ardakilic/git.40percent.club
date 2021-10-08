@@ -104,6 +104,8 @@ Pinout
 BOM mini USB
 
     1	ATmega328p or ATmega328 28pin DIP
+    48  4.5x4.5 6-7mm tall tactile switches
+    1   4.5x4.5 5mm tall tactile switch (bootloader)
     1	16MHz subminiature crystal ECS-160-20-46X
     2	20pf capacitors 0.1" lead spacing, 4mm max height
     1	1uf capacitor 0.1" lead spacing, 4mm max height
@@ -124,6 +126,8 @@ BOM mini USB
 BOM USB C
 
     1	ATmega328p or ATmega328 28pin DIP
+    48  4.5x4.5 6-7mm tall tactile switches
+    1   4.5x4.5 5mm tall tactile switch (bootloader)
     1	16MHz subminiature crystal ECS-160-20-46X
     2	20pf capacitors 0.1" lead spacing, 4mm max height
     1	1uf capacitor 0.1" lead spacing, 4mm max height
