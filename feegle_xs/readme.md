@@ -1,6 +1,6 @@
 ## Feegle XS Keyboard
 
-More Information https://www.40percent.club/2021/10/feegle_xs.html
+More Information https://www.40percent.club/2020/11/feegle-xs.html
 
 
 ======================
@@ -97,7 +97,7 @@ Pinout
     row: D6  D5  D3  B3
 
 
-BOM
+BOM mini USB
 
     1	ATmega328p or ATmega328 28pin DIP
     1	16MHz subminiature crystal ECS-160-20-46X
@@ -105,7 +105,7 @@ BOM
     1	1uf capacitor 0.1" lead spacing, 4mm max height
     2	68ohm resistors. Smaller 1/8 or 1/10 watt
     1	1.5Kohm resistor. Smaller 1/8 or 1/10 watt
-    1	PTC Fuse RXEF010
+    1	PICO Fuse 0251.125MXL https://www.digikey.com/short/27hmbw0b
     1	10uf capacitor 4mm diameter RNU1A100MDS1
     1	Mini USB connector with 2 mounting lugs. 2 lugs can be trimmed off 4 lug versions.
     2	T1 3mm Blue/White/Green/UV 3-3.3Vfd LEDs. Not all Green LEDs are 3V. Most Blue/White/UV are.
