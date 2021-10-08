@@ -14,7 +14,7 @@ More info about V-USB https://www.40percent.club/2020/08/the-aardvark.html
 
 
 Top
-![Feegle PCB Top](top.png)
+![Feegle PCB Top](/di0ib/Misc/_edit/master/feegle xs/top.png)
 
 Gerber: top.zip
 
@@ -22,7 +22,7 @@ Gerber: top.zip
 
 
 Top Convertible
-![Feegle PCB Top convertible](top_convertible.png)
+![Feegle PCB Top convertible](/di0ib/Misc/_edit/master/feegle xs/top_convertible.png)
 
 Gerber: top_convertible.zip
 
@@ -30,7 +30,7 @@ Gerber: top_convertible.zip
 
 
 Top Grill
-![Feegle PCB Top grill](top_grill.png)
+![Feegle PCB Top grill](/di0ib/Misc/_edit/master/feegle xs/top_grill.png)
 
 Gerber: top_grill.zip
 
@@ -38,7 +38,7 @@ Gerber: top_grill.zip
 
 
 Top Aluminum
-![Feegle PCB Top single sided](top_single.png)
+![Feegle PCB Top single sided](/di0ib/Misc/_edit/master/feegle xs/top_single.png)
 
 Gerber: top_single.zip
 
@@ -47,7 +47,7 @@ Gerber: top_single.zip
 
 Bottom
 
-![Feegle PCB Bottom](bottom.png)
+![Feegle PCB Bottom](/di0ib/Misc/_edit/master/feegle xs/bottom.png)
 
 Gerber: bottom.zip
 
@@ -56,7 +56,7 @@ Gerber: bottom.zip
 
 Bottom Aluminum
 
-![Feegle PCB Bottom single sided](bottom_single.png)
+![Feegle PCB Bottom single sided](/di0ib/Misc/_edit/master/feegle xs/bottom_single.png)
 
 Gerber: bottom_single.zip
 
@@ -65,7 +65,7 @@ Gerber: bottom_single.zip
 
 PCB mini USB
 
-![Feegle PCB](feegle_xs.png)
+![Feegle PCB](/di0ib/Misc/_edit/master/feegle xs/feegle_xs.png)
 
 Gerber: feegle_xs.zip
 
@@ -74,7 +74,7 @@ Gerber: feegle_xs.zip
 
 PCB USB C
 
-![Feegle C PCB](feegle_xsc.png)
+![Feegle C PCB](/di0ib/Misc/_edit/master/feegle xs/feegle_xsc.png)
 
 Gerber: feegle_xsc.zip
 
@@ -83,7 +83,7 @@ Gerber: feegle_xsc.zip
 
 Spacer
 
-![Feegle spacer](spacer.png)
+![Feegle spacer](/di0ib/Misc/_edit/master/feegle xs/spacer.png)
 
 Gerber: spacer.zip
 
@@ -109,11 +109,11 @@ BOM
     1	10uf capacitor 4mm diameter RNU1A100MDS1
     1	Mini USB connector with 2 mounting lugs. 2 lugs can be trimmed off 4 lug versions.
     2	T1 3mm Blue/White/Green/UV 3-3.3Vfd LEDs. Not all Green LEDs are 3V. Most Blue/White/UV are.
-    6	4mm M2 brass spacers
-    6	4mm M3 aluminum unthreaded spacers R30-6200414 (optional)
-    6	3mm M2 screws for top
-    6	5mm M2 screws for bottom
-    6	Steel or Brass 0.3mm thick washers
+    4	4mm M2 brass spacers
+    4	4mm M3 aluminum unthreaded spacers R30-6200414 (optional)
+    4	3mm M2 screws for top
+    4	5mm M2 screws for bottom
+    4	Steel or Brass 0.3mm thick washers
     1	ISP programmer for initial bootloader flashing.
 
 [How to order your own PCBs](http://www.40percent.club/2017/03/ordering-pcb.html)
