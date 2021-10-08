@@ -14,7 +14,7 @@ More info about V-USB https://www.40percent.club/2020/08/the-aardvark.html
 
 
 Top
-![Feegle PCB Top](/di0ib/Misc/_edit/master/feegle xs/top.png)
+![Feegle PCB Top](/di0ib/Misc/master/feegle xs/top.png)
 
 Gerber: top.zip
 
