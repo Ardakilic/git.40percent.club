@@ -123,7 +123,7 @@ BOM mini USB
     1	ISP programmer for initial bootloader flashing.
 
 
-BOM USB C
+BOM USB C, same as XS with the addition of the 5.1k resistors and the USB C connector instead of mini USB.
 
     1	ATmega328p or ATmega328 28pin DIP
     48  4.5x4.5 6-7mm tall tactile switches
@@ -145,5 +145,11 @@ BOM USB C
     4	Steel or Brass 0.3mm thick washers
     1	ISP programmer for initial bootloader flashing.
 
+
+Digikey - feegle xsc.xlsx
+
+This list contains all the components from Digikey for the xsc. There is two different weight switches and an alternate USB C connector.
+
+The only parts missing are the 4mm brass spacers and screws. These can be sources from Amazon or eBay.
 
 [How to order your own PCBs](http://www.40percent.club/2017/03/ordering-pcb.html)
