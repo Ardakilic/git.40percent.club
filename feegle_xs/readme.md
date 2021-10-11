@@ -4,7 +4,8 @@ More Information https://www.40percent.club/2020/11/feegle-xs.html
 
 
 ======================
-Feegle XS keyboard. 12x4 matrix.
+
+### Feegle XS keyboard. 12x4 matrix.
 
 TMK Firmware https://git.40percent.club/di0ib/tmk_keyboard/src/branch/master/keyboard/feegle
 
