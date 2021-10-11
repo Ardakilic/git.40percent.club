@@ -149,7 +149,7 @@ same as XS with the addition of the 5.1k resistors and the USB C connector inste
 
 ### Digikey - feegle xsc.xlsx
 
-This list contains all the components from Digikey for the xsc. There is two different weight switches and an alternate USB C connector.
+This list contains all the components from Digikey for the xsc. There are two different weight switches and an alternate USB C connector.
 
 The only parts missing are the 4mm brass spacers and screws. These can be sourced from Amazon or eBay.
 
