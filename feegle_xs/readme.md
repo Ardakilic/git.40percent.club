@@ -14,7 +14,7 @@ Bootloader same as Aardvark https://git.40percent.club/di0ib/Misc/src/branch/mas
 More info about V-USB https://www.40percent.club/2020/08/the-aardvark.html
 
 
-Top
+### Top
 ![Feegle PCB Top](top.png)
 
 Gerber: top.zip
@@ -22,7 +22,7 @@ Gerber: top.zip
     PCB Thickness: 1mm
 
 
-Top Convertible
+### Top Convertible
 ![Feegle PCB Top convertible](top_convertible.png)
 
 Gerber: top_convertible.zip
@@ -30,7 +30,7 @@ Gerber: top_convertible.zip
     PCB Thickness: 0.8mm
 
 
-Top Grill
+### Top Grill
 ![Feegle PCB Top grill](top_grill.png)
 
 Gerber: top_grill.zip
@@ -38,7 +38,7 @@ Gerber: top_grill.zip
     PCB Thickness: 1mm
 
 
-Top Aluminum
+### Top Aluminum
 ![Feegle PCB Top single sided](top_single.png)
 
 Gerber: top_single.zip
@@ -46,7 +46,7 @@ Gerber: top_single.zip
     PCB Thickness: 1mm
 
 
-Bottom
+### Bottom
 
 ![Feegle PCB Bottom](bottom.png)
 
@@ -55,7 +55,7 @@ Gerber: bottom.zip
     PCB Thickness: 1mm
 
 
-Bottom Aluminum
+### Bottom Aluminum
 
 ![Feegle PCB Bottom single sided](bottom_single.png)
 
@@ -64,7 +64,7 @@ Gerber: bottom_single.zip
     PCB Thickness: 1mm
 
 
-PCB mini USB
+### PCB mini USB
 
 ![Feegle PCB](feegle_xs.png)
 
@@ -73,7 +73,7 @@ Gerber: feegle_xs.zip
     PCB Thickness: 1.2mm
 
 
-PCB USB C
+### PCB USB C
 
 ![Feegle C PCB](feegle_xsc.png)
 
@@ -82,7 +82,7 @@ Gerber: feegle_xsc.zip
     PCB Thickness: 1.2mm
 
 
-Spacer
+### Spacer
 
 ![Feegle spacer](spacer.png)
 
@@ -90,13 +90,14 @@ Gerber: spacer.zip
 
     PCB Thickness: 0.8mm
 
+### License
 
 Gerber files released under https://creativecommons.org/licenses/by-sa/4.0/
 
 ![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 
-Pinout
+### Pinout
 
     col: B0  B1  B2  C0  C1  C2  C3  C4  C5  D0  D1  B4
     row: D6  D5  D3  B3
@@ -153,5 +154,6 @@ same as XS with the addition of the 5.1k resistors and the USB C connector inste
 This list contains all the components from Digikey for the xsc. There are two different weight switches and an alternate USB C connector.
 
 The only parts missing are the 4mm brass spacers and screws. These can be sourced from Amazon or eBay.
+
 
 [How to order your own PCBs](http://www.40percent.club/2017/03/ordering-pcb.html)
