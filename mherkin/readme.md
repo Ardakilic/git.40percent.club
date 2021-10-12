@@ -34,6 +34,11 @@ Gerber: mherkin.zip
     PCB Thickness: 1.6mm
 
 
+Gerber files released under https://creativecommons.org/licenses/by-sa/4.0/
+
+![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+
 Pinout
 
     row: 12, 13, 14
