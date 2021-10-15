@@ -13,6 +13,8 @@ Bootloader same as Aardvark https://git.40percent.club/di0ib/Misc/src/branch/mas
 
 More info about V-USB https://www.40percent.club/2020/08/the-aardvark.html
 
+Using SMT switches https://www.40percent.club/p/smt-conversion.html
+
 
 ### Top
 ![Feegle PCB Top](top.png)
@@ -106,7 +108,7 @@ Gerber files released under https://creativecommons.org/licenses/by-sa/4.0/
 ### BOM mini USB
 
     1	ATmega328p or ATmega328 28pin DIP
-    48  4.5x4.5 6-7mm tall tactile switches
+    48  4.5x4.5 6-7mm tall tactile switches https://www.40percent.club/p/smt-conversion.html
     1   4.5x4.5 5mm tall tactile switch (bootloader)
     1	16MHz subminiature crystal ECS-160-20-46X
     2	20pf capacitors 0.1" lead spacing, 4mm max height
@@ -129,7 +131,7 @@ Gerber files released under https://creativecommons.org/licenses/by-sa/4.0/
 same as XS with the addition of the 5.1k resistors and the USB C connector instead of mini USB.
 
     1	ATmega328p or ATmega328 28pin DIP
-    48  4.5x4.5 6-7mm tall tactile switches
+    48  4.5x4.5 6-7mm tall tactile switches https://www.40percent.club/p/smt-conversion.html
     1   4.5x4.5 5mm tall tactile switch (bootloader)
     1	16MHz subminiature crystal ECS-160-20-46X
     2	20pf capacitors 0.1" lead spacing, 4mm max height
