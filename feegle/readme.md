@@ -10,6 +10,8 @@ TMK Firmware https://git.40percent.club/di0ib/tmk_keyboard/src/branch/master/key
 
 Bootloader same as Aardvark https://git.40percent.club/di0ib/Misc/src/branch/master/aardvark/bootloader
 
+Flashing bootloader with Arduino Uno https://www.40percent.club/p/arduino-isp-bootloader-flash.html
+
 More info about V-USB https://www.40percent.club/2020/08/the-aardvark.html
 
 
