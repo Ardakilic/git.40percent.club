@@ -14,6 +14,8 @@ Flashing bootloader with Arduino Uno https://www.40percent.club/p/arduino-isp-bo
 
 More info about V-USB https://www.40percent.club/2020/08/the-aardvark.html
 
+Pre-trimming before soldering https://www.40percent.club/p/pre-trimming-components.html
+
 
 Top
 ![Feegle PCB Top](Feegle_Top.png)
